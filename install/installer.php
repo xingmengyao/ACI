@@ -27,7 +27,7 @@ class installer
     }
 
     //读取协议，根据文件类型，返回html。
-    protected function set_rule($rule_file,$rule_ext)
+    protected function rule_html($rule_file,$rule_ext)
     {
         //你们来写
     }
